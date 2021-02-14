@@ -1,5 +1,3 @@
-let second = 59;
-
 function countdown() {
     const counter = document.getElementById("timer");
 
